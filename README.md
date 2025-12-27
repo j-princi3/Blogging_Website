@@ -1,4 +1,4 @@
-# 📝 Modern Next.js Blogging Website
+# 📝 Next.js Blogging Website
 
 A sleek, performant blogging platform built with Next.js 15, TypeScript, and Tailwind CSS. Fully responsive, SEO-optimized, and designed for an exceptional reading experience using a headless WordPress backend.
 
